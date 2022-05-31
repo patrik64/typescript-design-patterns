@@ -6,4 +6,4 @@ to run you can use [deno](https://deno.land/)
 
 e.g.
 
-```deno run 01-factory-method.ts```
+```deno run creational/01-factory-method.ts```
